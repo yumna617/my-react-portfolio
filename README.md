@@ -16,60 +16,21 @@ MUI Components (Drawer, AppBar, Cards, etc.)
 
 Form Validation 
 
-![name]()
 
+Here are some of my screenshots of Portfolio website :
 
+![name](assets/home.PNG)
+
+![name](assets/education.PNG)
+
+![name](assets/contacts.PNG)
+
+![name](assets/skills.PNG)
+
+![name](assets/Projects.PNG)
 
 
  Project Structure :
  
- my-react-app/
- 
-├── src/
 
-   ├── assets/              # Static assets
-
-   └── profile.jpg
-
- ├── components/ 
-
-├── context/             # Context providers
-
-   └── PageTitleContext.js
-
-├── layout/              # Layout components
-
-   ├── Footer.js
-
-   ├── Header.js
-
-   └── SideNav.js
-
-├── pages/               # Route components
-
-   ├── Contact/
-
-     ├── index.js
-
-   ├── Education/
-
-     ├── index.js
-
-   ├── Home/
-
-      ├── index.js
-
-   ├── Projects/
-   
-       ├── index.js
-
-   └── Skills/
-
-       ├── index.js
-
-├── App.js               # Main app component
-
-   ├── App.test.js
-
-│   └── index.js    
 
