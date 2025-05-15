@@ -1,12 +1,13 @@
 React Portfolio with Material-UI
 
-
-Overview
+Overview:
 A modern portfolio website built with React 18, Material-UI (MUI), and CSS. Implements dynamic routing, responsive design, and React Context API following best practices.
 
-Features
+Features :
 ✅ Component-Based Architecture
+
 ✅ Responsive Layout (Desktop/Tablet/Mobile)
+
 ✅ Dynamic Page Titles (Context API)
 ✅ MUI Components (Drawer, AppBar, Cards, etc.)
 ✅ Form Validation (Yup)
