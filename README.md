@@ -31,7 +31,7 @@ Form Validation
 
 
  ### Project Structure :
- ![name](assets/Project_st1.PNG)
+ ![name](assets/Project.PNG)
 
  ![name](assets/Project_st2.PNG)
 
