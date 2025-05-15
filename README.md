@@ -6,17 +6,18 @@ A modern portfolio website built with React 18, Material-UI (MUI), and CSS. Impl
 
 Features :
 
-✅ Component-Based Architecture
+Component-Based Architecture
 
-✅ Responsive Layout (Desktop/Tablet/Mobile)
+Responsive Layout (Desktop/Tablet/Mobile)
 
-✅ Dynamic Page Titles (Context API)
+Dynamic Page Titles (Context API)
 
-✅ MUI Components (Drawer, AppBar, Cards, etc.)
+MUI Components (Drawer, AppBar, Cards, etc.)
 
-✅ Form Validation (Yup)
+Form Validation 
 
-✅ Reusable Project Cards with hover effects
+![name]()
+
 
 
 
