@@ -24,49 +24,49 @@ Features :
  
 ├── src/
 
-│   ├── assets/              # Static assets
+   ├── assets/              # Static assets
 
-│   │   └── profile.jpg
+   └── profile.jpg
 
-│   ├── components/ 
+ ├── components/ 
 
 ├── context/             # Context providers
 
-│   │   └── PageTitleContext.js
+   └── PageTitleContext.js
 
 ├── layout/              # Layout components
 
-│   │   ├── Footer.js
+   ├── Footer.js
 
-│   │   ├── Header.js
+   ├── Header.js
 
-│   │   └── SideNav.js
+   └── SideNav.js
 
-│   ├── pages/               # Route components
+├── pages/               # Route components
 
-│   │   ├── Contact/
+   ├── Contact/
 
-│   │   │   ├── index.js
+     ├── index.js
 
-│   │   ├── Education/
+   ├── Education/
 
-│   │   │   ├── index.js
+     ├── index.js
 
-│   │   ├── Home/
+   ├── Home/
 
-│   │   │   ├── index.js
+      ├── index.js
 
-│   │   ├── Projects/
+   ├── Projects/
+   
+       ├── index.js
 
-│   │   │   ├── index.js
+   └── Skills/
 
-│   │   └── Skills/
-
-│   │       ├── index.js
+       ├── index.js
 
 ├── App.js               # Main app component
 
-│   ├── App.test.js
+   ├── App.test.js
 
 │   └── index.js    
 
